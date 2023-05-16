@@ -97,12 +97,39 @@ At the end of the process, you should have in your document:
   - This should be related to one of the top three items by votes that your group agreed on.
 * A brief explanation of how you will know whether your experiment was or was not a success.
 
-After the retro is done, you can:
+# After the retro is done
 
 * Ask a staff member to look over your GDrive document; they'll check it to make sure it has the required elements:
   - items from each member under start/stop/continue
   - dot voting
   - an experiment, including the criteria by which you can know whether the experiment was a success
 
+# Next steps if there's more time
 
+* Start looking over your repo for the legacy code project (links here: <https://ucsb-cs156.github.io/s23/lectures/lect20/> )
+* Start looking at the issues for your legacy code project (links below)
+  - Note that each of these is still being refined by the staff
+  - You will have a part in shaping these issues also; that's what we're doing in class tomorrow   
+  - We'll talk in section Wednesday and in lecture next Tuesday about how to divide up and prioritize the issues
+  - We'll also talk about how code reviews and grading works for the legacy project phase.
+* Also start playing with the applications
+  - In some cases, the features you can access will be limited because you don't have admin access
+  - By Thursday, I'll have instructions for you to set up prod and qa instances for your individual forks of the projects so that can try the admin features also
+
+# Legacy code issues
+
+- 5pm: Gauchoride: [Issues](https://github.com/ucsb-cs156/proj-gauchoride/issues), [Brainstorm Document](https://docs.google.com/document/d/1oDyqpJzZJpRjhOn_uON-b1ssP6DokY8CPWRRkIi4mMM/edit)
+- 6pm: Happy Cows: [Issues](https://github.com/ucsb-cs156/proj-happycows/issues)
+- 7pm: Courses: [Issues](https://github.com/ucsb-cs156/proj-courses/issues) 
+
+# Legacy code prod and qa apps (central)
+
+| Section | App | Type | Link       | 
+|------|------------|---|---|
+| 5pm | gauchoride | prod | <https://proj-gauchoride.dokku-00.cs.ucsb.edu/> | 
+| 5pm | gauchoride | qa | <https://proj-gauchoride-qa.dokku-00.cs.ucsb.edu/>  | 
+| 6pm | happycows | prod | <https://proj-happycows.dokku-00.cs.ucsb.edu/> | 
+| 6pm | happycows | qa | <https://proj-happycows-qa.dokku-00.cs.ucsb.edu/>  | 
+| 7pm | courses | prod | <https://proj-courses.dokku-00.cs.ucsb.edu/> | 
+| 7pm | courses | qa | <https://proj-courses-qa.dokku-00.cs.ucsb.edu/>  | 
 
