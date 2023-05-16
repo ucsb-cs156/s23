@@ -1,5 +1,5 @@
 ---
-title: "Week 07 - 05.09 Tue"
+title: "Week 07 - 05.16 Tue"
 lecture_date: 2023-05-16
 description: "Db Tips, and Agile Retrospective"
 ready: true
