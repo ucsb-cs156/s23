@@ -16,33 +16,13 @@ parent: lectures
 
 # Your legacy code projects
 
-<details markdown="1">
-<summary markdown="1">5pm - gauchoride</summary>
+## 5pm - gauchoride
 
-* <https://github.com/ucsb-cs156-s23/proj-gauchoride-s23-5pm-1>
-* <https://github.com/ucsb-cs156-s23/proj-gauchoride-s23-5pm-2>
-* <https://github.com/ucsb-cs156-s23/proj-gauchoride-s23-5pm-3>
-* <https://github.com/ucsb-cs156-s23/proj-gauchoride-s23-5pm-4>
+| Team | Repo | Github Pages |
+|--|--|--|
+| s23-5pm-1 | [repo](https://github.com/ucsb-cs156-s23/proj-gauchoride-s23-5pm-1) | [pages](https://ucsb-cs156-s23.github.io/proj-gauchoride-s23-5pm-1/) |
+| s23-5pm-2 | [repo](https://github.com/ucsb-cs156-s23/proj-gauchoride-s23-5pm-2) | [pages](https://ucsb-cs156-s23.github.io/proj-gauchoride-s23-5pm-2/) |
+| s23-5pm-3 | [repo](https://github.com/ucsb-cs156-s23/proj-gauchoride-s23-5pm-3) | [pages](https://ucsb-cs156-s23.github.io/proj-gauchoride-s23-5pm-3/) |
+| s23-5pm-4 | [repo](https://github.com/ucsb-cs156-s23/proj-gauchoride-s23-5pm-4) | [pages](https://ucsb-cs156-s23.github.io/proj-gauchoride-s23-5pm-4/) |
+
  
-</details>
-  
-<details markdown="1">
-<summary markdown="1">6pm - happycows</summary>
-
-* <https://github.com/ucsb-cs156-s23/proj-happycows-s23-6pm-1>
-* <https://github.com/ucsb-cs156-s23/proj-happycows-s23-6pm-2>
-* <https://github.com/ucsb-cs156-s23/proj-happycows-s23-6pm-3>
-* <https://github.com/ucsb-cs156-s23/proj-happycows-s23-6pm-4>
- 
-</details>
-
-<details markdown="1">
-<summary markdown="1">7pm - courses</summary>
-
-* <https://github.com/ucsb-cs156-s23/proj-courses-s23-7pm-1>
-* <https://github.com/ucsb-cs156-s23/proj-courses-s23-7pm-2>
-* <https://github.com/ucsb-cs156-s23/proj-courses-s23-7pm-3>
-* <https://github.com/ucsb-cs156-s23/proj-courses-s23-7pm-4>
- 
-</details>
-
