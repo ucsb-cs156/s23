@@ -26,3 +26,21 @@ parent: lectures
 | s23-5pm-4 | [repo](https://github.com/ucsb-cs156-s23/proj-gauchoride-s23-5pm-4) | [pages](https://ucsb-cs156-s23.github.io/proj-gauchoride-s23-5pm-4/) |
 
  
+## 6pm - happycows
+
+| Team | Repo | Github Pages |
+|--|--|--|
+| s23-6pm-1 | [repo](https://github.com/ucsb-cs156-s23/proj-happycows-s23-6pm-1) | [pages](https://ucsb-cs156-s23.github.io/proj-happycows-s23-6pm-1/) |
+| s23-6pm-2 | [repo](https://github.com/ucsb-cs156-s23/proj-happycows-s23-6pm-2) | [pages](https://ucsb-cs156-s23.github.io/proj-happycows-s23-6pm-2/) |
+| s23-6pm-3 | [repo](https://github.com/ucsb-cs156-s23/proj-happycows-s23-6pm-3) | [pages](https://ucsb-cs156-s23.github.io/proj-happycows-s23-6pm-3/) |
+| s23-6pm-4 | [repo](https://github.com/ucsb-cs156-s23/proj-happycows-s23-6pm-4) | [pages](https://ucsb-cs156-s23.github.io/proj-happycows-s23-6pm-4/) |
+ 
+## 7pm - courses
+
+| Team | Repo | Github Pages |
+|--|--|--|
+| s23-6pm-1 | [repo](https://github.com/ucsb-cs156-s23/proj-courses-s23-7pm-1) | [pages](https://ucsb-cs156-s23.github.io/proj-courses-s23-7pm-1/) |
+| s23-6pm-2 | [repo](https://github.com/ucsb-cs156-s23/proj-courses-s23-7pm-2) | [pages](https://ucsb-cs156-s23.github.io/proj-courses-s23-7pm-2/) |
+| s23-6pm-3 | [repo](https://github.com/ucsb-cs156-s23/proj-courses-s23-7pm-3) | [pages](https://ucsb-cs156-s23.github.io/proj-courses-s23-7pm-3/) |
+| s23-6pm-4 | [repo](https://github.com/ucsb-cs156-s23/proj-courses-s23-7pm-4) | [pages](https://ucsb-cs156-s23.github.io/proj-courses-s23-7pm-4/) |
+ 
