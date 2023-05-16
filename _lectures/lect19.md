@@ -56,6 +56,12 @@ We "inspect and adapt".
 * A retro that lasts less than 30 minutes raises questions about whether it is a good faith effort.
 * Give it the time that it needs.
 
+
+# Where did Agile come from?
+
+* The old Waterfall method didn't work well: <https://www.tutorialspoint.com/sdlc/sdlc_waterfall_model.htm>
+* During the 90s, folks inspected and adapted, leading to the [Agile Manifesto](https://agilemanifesto.org/)
+
 # Retrospective: the heart of Agile
 
 The core principle of Agile is "inspect and adapt".  
