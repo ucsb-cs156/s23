@@ -9,13 +9,32 @@ parent: lectures
 
 {% include drop_down_style.html %}
 
-# Database tips
+# Ten minute standup 2:01pm-2:11pm
+
+* Do a written update on the slack channel
+* Do an out loud standup
+
+
+# Database tips: 2:11pm- 2:15pm
 
 * How to reset the db on localhost: `mvn clean`
 * How to reset the db on dokku (TODO: Fill this in)
 * Explain when you might need to do this
 
-# Agile Retrospective
+Tomorrow Night in discussion: legacy code project  (2:15-2:20pm)
+# Outline of rest of week 
+
+Wednesday Discussion:
+
+* 5pm: Gauchoride: Customers will be there 
+* 6pm: Happy Cows: Customer will zoom in
+* 7pm: Courses: You and me are the customers
+
+We'll go over the apps and what they do, and start organizing the Kanban boards.
+
+Thursday: Work session on team03 (try to get it done, or close to done).
+
+# Agile Retrospective Intro (2:20-2:45)
 
 # Today (outline)
 
@@ -43,7 +62,7 @@ All in the service of doing a better job of software development.
 
 In a retro, the team stops, pauses, reflects, and most importantly *comes up with an actionable change* for their practice.
 
-# Today's Retro
+# Today's Retro (2:45 - 3:15)
 
 * Start by having everyone take 5 minutes to read through this article: [https://ucsb-cs156.github.io/topics/agile/agile_retros.html](https://ucsb-cs156.github.io/topics/agile/agile_retros.html)
   - Really read it!  It has the instructions for the most important activity in today's class
