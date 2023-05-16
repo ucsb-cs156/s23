@@ -16,8 +16,8 @@ parent: lectures
 
 # Your legacy code projects
 
-<details>
-<summary>5pm - gauchoride</summary>
+<details markdown="1">
+<summary markdown="1">5pm - gauchoride</summary>
 
 * <https://github.com/ucsb-cs156-s23/proj-gauchoride-s23-5pm-1>
 * <https://github.com/ucsb-cs156-s23/proj-gauchoride-s23-5pm-2>
@@ -26,8 +26,8 @@ parent: lectures
  
 </details>
   
-<details>
-<summary>6pm - happycows</summary>
+<details markdown="1">
+<summary markdown="1">6pm - happycows</summary>
 
 * <https://github.com/ucsb-cs156-s23/proj-happycows-s23-6pm-1>
 * <https://github.com/ucsb-cs156-s23/proj-happycows-s23-6pm-2>
@@ -36,8 +36,8 @@ parent: lectures
  
 </details>
 
-<details>
-<summary>7pm - courses</summary>
+<details markdown="1">
+<summary markdown="1">7pm - courses</summary>
 
 * <https://github.com/ucsb-cs156-s23/proj-courses-s23-7pm-1>
 * <https://github.com/ucsb-cs156-s23/proj-courses-s23-7pm-2>
