@@ -26,6 +26,8 @@ Tomorrow Night in discussion: legacy code project  (2:15-2:20pm)
 
 Wednesday Discussion:
 
+10 minute standup followed by:
+
 * 5pm: Gauchoride: Customers will be there 
 * 6pm: Happy Cows: Customer will zoom in
 * 7pm: Courses: You and me are the customers
