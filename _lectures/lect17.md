@@ -18,10 +18,17 @@ parent: lectures
 # Database tips: 2:11pm- 2:15pm
 
 * How to reset the db on localhost: `mvn clean`
-* How to reset the db on dokku (TODO: Fill this in)
-* Explain when you might need to do this
+* [How to reset the db on dokku](https://ucsb-cs156.github.io/topics/dokku/postgres_database.html#resetting-the-database) 
+* When should I do this?
+  - If you are getting strange `SQL` errors in your backend console output
+  - Especially if you get these after making a change to an `@Entity` class.
 
-Tomorrow Night in discussion: legacy code project  (2:15-2:20pm)
+In real world applications, this is done with something called *database migration frameworks*.
+
+That's a topic we've tried to introduce into this course a few times (unsuccessfully so far).
+
+If someone would like to take on a CMPSC 192 or CMPSC 196 independent study on this topic in Summer or Fall, let me know.
+
 # Outline of rest of week 
 
 Wednesday Discussion:
