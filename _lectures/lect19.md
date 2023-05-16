@@ -43,7 +43,7 @@ We'll go over the apps and what they do, and start organizing the Kanban boards.
 
 Thursday: Work session on team03 (try to get it done, or close to done).
 
-# Agile Retrospective Intro (2:20-2:45)
+# Agile Retrospective Intro (2:20-2:40)
 
 # Today (outline)
 
@@ -77,10 +77,12 @@ All in the service of doing a better job of software development.
 
 In a retro, the team stops, pauses, reflects, and most importantly *comes up with an actionable change* for their practice.
 
-# Today's Retro (2:45 - 3:15)
+# Today's Retro (2:40 - 3:15)
 
 * Start by having everyone take 5 minutes to read through this article: [https://ucsb-cs156.github.io/topics/agile/agile_retros.html](https://ucsb-cs156.github.io/topics/agile/agile_retros.html)
   - Really read it!  It has the instructions for the most important activity in today's class
+ 
+* Then take 5 minutes to read your fellow team members feedback (login to <https://catme.org>)
  
 * Next, choose a leader for your retro. It should be someone that has read the instructions and is comfortable leading the group. 
 * Then, locate the Google Drive folder for your team.  It should be linked in your Slack channel with a `gdrive` link this:
