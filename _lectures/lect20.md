@@ -28,12 +28,12 @@ parent: lectures
  
 ## 6pm - happycows
 
-| Team | Repo | Github Pages |
-|--|--|--|
-| s23-6pm-1 | [repo](https://github.com/ucsb-cs156-s23/proj-happycows-s23-6pm-1) | [pages](https://ucsb-cs156-s23.github.io/proj-happycows-s23-6pm-1/) |
-| s23-6pm-2 | [repo](https://github.com/ucsb-cs156-s23/proj-happycows-s23-6pm-2) | [pages](https://ucsb-cs156-s23.github.io/proj-happycows-s23-6pm-2/) |
-| s23-6pm-3 | [repo](https://github.com/ucsb-cs156-s23/proj-happycows-s23-6pm-3) | [pages](https://ucsb-cs156-s23.github.io/proj-happycows-s23-6pm-3/) |
-| s23-6pm-4 | [repo](https://github.com/ucsb-cs156-s23/proj-happycows-s23-6pm-4) | [pages](https://ucsb-cs156-s23.github.io/proj-happycows-s23-6pm-4/) |
+| Team | Repo | Github Pages | Prod | QA |
+|--|--|--|--|--|
+| s23-6pm-1 | [repo](https://github.com/ucsb-cs156-s23/proj-happycows-s23-6pm-1) | [pages](https://ucsb-cs156-s23.github.io/proj-happycows-s23-6pm-1/) | [prod](https://proj-happycows.dokku-05.cs.ucsb.edu) | [qa](https://proj-happycows-qa.dokku-05.cs.ucsb.edu) |
+| s23-6pm-2 | [repo](https://github.com/ucsb-cs156-s23/proj-happycows-s23-6pm-2) | [pages](https://ucsb-cs156-s23.github.io/proj-happycows-s23-6pm-2/) |[prod](https://proj-happycows.dokku-06.cs.ucsb.edu) | [qa](https://proj-happycows-qa.dokku-06.cs.ucsb.edu) |
+| s23-6pm-3 | [repo](https://github.com/ucsb-cs156-s23/proj-happycows-s23-6pm-3) | [pages](https://ucsb-cs156-s23.github.io/proj-happycows-s23-6pm-3/) |[prod](https://proj-happycows.dokku-07.cs.ucsb.edu) | [qa](https://proj-happycows-qa.dokku-07.cs.ucsb.edu) |
+| s23-6pm-4 | [repo](https://github.com/ucsb-cs156-s23/proj-happycows-s23-6pm-4) | [pages](https://ucsb-cs156-s23.github.io/proj-happycows-s23-6pm-4/) |[prod](https://proj-happycows.dokku-08.cs.ucsb.edu) | [qa](https://proj-happycows-qa.dokku-08.cs.ucsb.edu) |
  
 ## 7pm - courses
 
