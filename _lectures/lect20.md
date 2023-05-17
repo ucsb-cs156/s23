@@ -35,6 +35,8 @@ You can also record your ideas about how the app could be improved.
 
 ## 5pm - gauchoride
 
+* Customer: Mike Fogelsonger (Director of Veterans and Military Services) and Holly Roose (Director, Promise Scholars Program, UCSB).
+
 | Team | Repo | Github Pages | Prod | QA |
 |--|--|--|--|--|
 | s23-5pm-1 | [repo](https://github.com/ucsb-cs156-s23/proj-gauchoride-s23-5pm-1) | [pages](https://ucsb-cs156-s23.github.io/proj-gauchoride-s23-5pm-1/) | [prod](https://proj-gauchoride.dokku-01.cs.ucsb.edu) | [qa](https://proj-gauchoride-qa.dokku-01.cs.ucsb.edu)
@@ -45,6 +47,8 @@ You can also record your ideas about how the app could be improved.
  
 ## 6pm - happycows
 
+* Customer: Prof. Mattanjah de Vries, Distinguished Prof. of Chemistry, UCSB
+
 | Team | Repo | Github Pages | Prod | QA |
 |--|--|--|--|--|
 | s23-6pm-1 | [repo](https://github.com/ucsb-cs156-s23/proj-happycows-s23-6pm-1) | [pages](https://ucsb-cs156-s23.github.io/proj-happycows-s23-6pm-1/) | [prod](https://proj-happycows.dokku-05.cs.ucsb.edu) | [qa](https://proj-happycows-qa.dokku-05.cs.ucsb.edu) |
@@ -53,6 +57,8 @@ You can also record your ideas about how the app could be improved.
 | s23-6pm-4 | [repo](https://github.com/ucsb-cs156-s23/proj-happycows-s23-6pm-4) | [pages](https://ucsb-cs156-s23.github.io/proj-happycows-s23-6pm-4/) |[prod](https://proj-happycows.dokku-08.cs.ucsb.edu) | [qa](https://proj-happycows-qa.dokku-08.cs.ucsb.edu) |
  
 ## 7pm - courses
+
+* Customer: All UCSB Students, Faculty, Staff and Admins
 
 | Team | Repo | Github Pages | Prod | QA |
 |--|--|--|--|--|
