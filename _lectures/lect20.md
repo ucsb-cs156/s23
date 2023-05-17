@@ -14,11 +14,20 @@ parent: lectures
 * Do a written update on the slack channel
 * Do an out loud standup
 
+If you get done with standup before time is called, get started on creating the document where you'l be taking notes today (see below).
+
+You can also check our your team's prod and qa deployments of your app (you should have admin access if you use your own team's links below.)
+
 # Then, we'll have a project specific discussion
 
-Please open your Google Drive folder and make a document called 05.17.Notes
+Please open your Google Drive folder (the same one where you did your retro yesterday) and make a document called `ProductNotes`
 
-As a team, you can collectively take notes in this document about what you learn from today's discussion about the planned features for the app.
+In the document, make a heading for "Notes from 05/17" and put
+* Your team name (e.g. s23-5pm-1)
+* The application name (either gauchoride, happycows, or courses)
+* Who is present/absent today (you can just put 100% attendance if that's true; otherwise indicate who is present and who is absent.)
+
+Then, as a team, you can collectively take notes in this document about what you learn from today's discussion about the planned features for the app.
 
 You can also record your ideas about how the app could be improved.
 
