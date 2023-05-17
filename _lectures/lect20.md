@@ -14,6 +14,14 @@ parent: lectures
 * Do a written update on the slack channel
 * Do an out loud standup
 
+# Then, we'll have a project specific discussion
+
+Please open your Google Drive folder and make a document called 05.17.Notes
+
+As a team, you can collectively take notes in this document about what you learn from today's discussion about the planned features for the app.
+
+You can also record your ideas about how the app could be improved.
+
 # Your legacy code projects
 
 ## 5pm - gauchoride
