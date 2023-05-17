@@ -18,12 +18,12 @@ parent: lectures
 
 ## 5pm - gauchoride
 
-| Team | Repo | Github Pages |
+| Team | Repo | Github Pages | Prod | QA |
 |--|--|--|
-| s23-5pm-1 | [repo](https://github.com/ucsb-cs156-s23/proj-gauchoride-s23-5pm-1) | [pages](https://ucsb-cs156-s23.github.io/proj-gauchoride-s23-5pm-1/) |
-| s23-5pm-2 | [repo](https://github.com/ucsb-cs156-s23/proj-gauchoride-s23-5pm-2) | [pages](https://ucsb-cs156-s23.github.io/proj-gauchoride-s23-5pm-2/) |
-| s23-5pm-3 | [repo](https://github.com/ucsb-cs156-s23/proj-gauchoride-s23-5pm-3) | [pages](https://ucsb-cs156-s23.github.io/proj-gauchoride-s23-5pm-3/) |
-| s23-5pm-4 | [repo](https://github.com/ucsb-cs156-s23/proj-gauchoride-s23-5pm-4) | [pages](https://ucsb-cs156-s23.github.io/proj-gauchoride-s23-5pm-4/) |
+| s23-5pm-1 | [repo](https://github.com/ucsb-cs156-s23/proj-gauchoride-s23-5pm-1) | [pages](https://ucsb-cs156-s23.github.io/proj-gauchoride-s23-5pm-1/) | [prod](https://proj-gauchoride.dokku-01.cs.ucsb.edu) | [qa](https://proj-gauchoride-qa.dokku-01.cs.ucsb.edu)
+| s23-5pm-2 | [repo](https://github.com/ucsb-cs156-s23/proj-gauchoride-s23-5pm-2) | [pages](https://ucsb-cs156-s23.github.io/proj-gauchoride-s23-5pm-2/) | [prod](https://proj-gauchoride.dokku-02.cs.ucsb.edu) | [qa](https://proj-gauchoride-qa.dokku-02.cs.ucsb.edu)
+| s23-5pm-3 | [repo](https://github.com/ucsb-cs156-s23/proj-gauchoride-s23-5pm-3) | [pages](https://ucsb-cs156-s23.github.io/proj-gauchoride-s23-5pm-3/) | [prod](https://proj-gauchoride.dokku-03.cs.ucsb.edu) | [qa](https://proj-gauchoride-qa.dokku-03.cs.ucsb.edu)
+| s23-5pm-4 | [repo](https://github.com/ucsb-cs156-s23/proj-gauchoride-s23-5pm-4) | [pages](https://ucsb-cs156-s23.github.io/proj-gauchoride-s23-5pm-4/) | [prod](https://proj-gauchoride.dokku-04.cs.ucsb.edu) | [qa](https://proj-gauchoride-qa.dokku-04.cs.ucsb.edu)
 
  
 ## 6pm - happycows
