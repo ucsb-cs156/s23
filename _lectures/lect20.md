@@ -59,6 +59,8 @@ You can also record your ideas about how the app could be improved.
 ## 7pm - courses
 
 * Customer: All UCSB Students, Faculty, Staff and Admins
+* Central issues collection: <https://github.com/ucsb-cs156/proj-courses/issues>
+  - You can get issues from here to add to your own kanban boards
 
 | Team | Repo | Github Pages | Prod | QA |
 |--|--|--|--|--|
