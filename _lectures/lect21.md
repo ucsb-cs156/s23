@@ -23,4 +23,9 @@ If you are not, FIX THAT FIRST before doing anything else.
  * If you are finished with your initial assignments, i.e. all of your issues are merged into main, then *assign yourself to help team members that need help*
  * Remember that at the end of the day, these are team level grades
 
+# Modern SW Dev orgs are chill about most things...
+# But being late for standup is NOT ONE OF THEM.
+
+
+
 
