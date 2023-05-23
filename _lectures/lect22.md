@@ -7,6 +7,10 @@ layout: default
 parent: lectures
 ---
 
+# New CATME survey dropped
+
+Please complete by midnight Thursday.
+
 # If your team has submitted team03 (ten of twelve teams)
 
 Please divide the 75 minutes of class time between
@@ -59,3 +63,77 @@ These instructions apply only to the teams making up the retro later in the week
 * As you conduct your retro, please reflect on factors led to the team not completing the project by the original deadline
 * Please include some suggestions for what the team will do to avoid that from occuring during the project phase
    
+# Sprint Planning for Legacy Code project
+
+Each team already has a Kanban board setup for the legacy code project (see links below).
+
+You should add the `In Review` column if it is not already present.
+
+Then, you should populate your todo column with issues, start assigning them to your team, and start working.
+
+You may not get through all of the Sprint planning today, but by the end of discussion section on Wednesday:
+* Each of the six team members should be assigned to an issue in the todo column
+* The previous bullet point shoudl *remain true* until your team reaches 100 points
+
+Teams accumulate points when PRs are merged into main
+* That is only done by the course staff for these projects.
+* Each PR requires at least one code review from a team member, and at least one code review from a staff member
+* The staff estimate points. Most issues are 5 to 10 points.
+  - 5 points for very straightforward issues addressing a single concern
+  - 10 points for issues that require a bit more work, but are nevertheless reasonably straightforward application of skills from team01, team02, team03.
+  - 20 points is rare, and is reserved for issues that may be more complex, and/or require students to go significantly beyond the skills from previous course assignments.
+* Note that breaking down issues into smaller chunks works to your benefit in multiple ways:
+  - Easy to code review and merge (fewer merge conflicts), so faster point accumulation
+  - Three 10 points issues and three 5 points issues adds up to 45 points; combining all of those together might only get you 20.
+  - But the aim here should not be to "game the points". It should be to "get the issues implemented", in incremental "right sized" pieces.
+  - If you do that, the points will take care of themselves.  
+  
+Points belong to the whole team, not to individuals
+* Work as a team, and help each other.
+* We do want to see every team member contribute
+* Ultimately, it's a team project and a team grade.
+* Having said that, really low CATME scores might result in a grade reduction.
+ 
+  
+## Where do issues come from?
+
+For issues, you'll need to do a bit more work that in the previous team projects.
+
+Here is where you'll get issues from:
+* The three starter code repos have issues lists (as shown in the table below). 
+  - A handful of these may be small easy issues. 
+  - However, many (most?) of these issue *may not translate one-to-one into issues for your Kanban board*.
+  - Instead, you are encouraged to try to *break the larger ones down into smaller issues*, each of which could be a single PR; more on this below.
+  - This Sprint Planning meeting is where you can do some of that.
+  - You may even need to add "issues about issues", e.g. an issue that says: "break issue #34 from proj-happycows into multiple issues on our team's repo".  Such an issue doesn't result in a PR, but it can still be moved across the Kanban board from `To Do`, to `In Progress`, to `In Review`, to `Done`.
+* Your team's own ideas for features, based on the notes your team took last Wednesday during meetings with
+  - Mike Fogelsanger for proj-gauchoride
+  - Prof. Mattanjah deVries for proj-happycows
+  - Prof. Phill Conrad for proj-courses
+
+## You are encouraged to keep each PR small.
+
+For example, implementing a new feature may require
+* A new React Component (with tests and storybook entries, and perhaps fixtures to support those)
+* A new React Page
+  - This page might start out with a simple PR that establishes a placeholder with text "New feature coming soon", and a trivial set of tests and a storybook entry
+  - It might later get data from the backend and display it using a component, and be linked to from the navigation bar.
+* A new database table (or a new column in an existing database table, requiring modifications to an `@Entity` and/or `@Repository` class
+* New API backend endpoints, which require controller methods and tests.
+
+Each of these could (and arguably should be) a separate PR!  This helps to keep PRs small, which makes code review easier, and also helps the team to divide up work among the team members.
+
+Still, you may need to document in the issues what the dependencies are (e.g. do issue 12 and 13 before starting 14).
+
+# Legacy Code Background information
+
+For each of the twelve teams, there is already:
+* A repo, seeded with the starter code from previous quarters
+* A prod and qa dokku instance
+* A Kanban board
+
+For each, I've set up Google OAuth client id and client secret, as well as the `UCSB_API_KEY` and `MONGODB_URI` for the `courses` project.  You are welcome to use `dokku config:show app-name` to get these values and use them for your localhost setup.
+
+Links are provided below.
+
+
