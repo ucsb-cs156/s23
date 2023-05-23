@@ -111,6 +111,16 @@ Here is where you'll get issues from:
   - Prof. Mattanjah deVries for proj-happycows
   - Prof. Phill Conrad for proj-courses
 
+## Existing issues
+
+Staff may add to these issues over the course of the project; when we do, we'll post an announcement in the project slack channels.
+
+| Project |  Starter Code Repo | Issues Link | Project Slack Channel |
+|---------|--------------------|-------------|-----------------------|
+| proj-gauchoride | [Starter Code Repo](https://github.com/ucsb-cs156/proj-gauchoride) | [Issues](https://github.com/ucsb-cs156/proj-gauchoride/issues) | [`#proj-gauchoride`](https://ucsb-cs156-s23.slack.com/archives/C0595EWELLA) |
+| proj-happycows | [Starter Code Repo](https://github.com/ucsb-cs156/proj-happycows) | [Issues](https://github.com/ucsb-cs156/proj-happycows/issues) | [`#proj-happycows`](https://ucsb-cs156-s23.slack.com/archives/C058QUC16QP) |
+| proj-courses | [Starter Code Repo](https://github.com/ucsb-cs156/proj-courses) | [Issues](https://github.com/ucsb-cs156/proj-courses/issues) |  [`#proj-courses`](https://ucsb-cs156-s23.slack.com/archives/C058BPFQZ42) |
+
 ## You are encouraged to keep each PR small.
 
 For example, implementing a new feature may require
