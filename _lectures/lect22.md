@@ -1,5 +1,5 @@
 ---
-title: "Week 08 - 05.23 Thu"
+title: "Week 08 - 05.23 Tue"
 lecture_date: 2023-05-23
 description: "Retro, Sprint Planning (or finishing team03)"
 ready: true
