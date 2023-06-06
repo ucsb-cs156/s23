@@ -205,6 +205,8 @@ Please then also poll your team members and let me know your thoughts about the 
 * [f22-5pm-2 courses](https://www.youtube.com/watch?v=TJCToeTyasw)
 * [f22-5pm-3 happycows](https://drive.google.com/file/d/1lNaRYu-LNSv03MrwPxWYezMXH9pkaeBY/view?usp=sharing)
 * [f22-6pm-4 happycows](https://drive.google.com/file/d/1l5L88UaTG4B_-8ZKiYx-PXu62cZgSjP9/view?usp=sharing)
+* [f22-7pm-3 happycows](https://drive.google.com/file/d/1H3RapJJbsP0pAV6YcvRMLeTIG77nBl-J/view?usp=sharing)
+* [f22-7pm-4 happycows](https://drive.google.com/file/d/1yzT9WInuLZQyvenYqBLh_fEgNSvlkulp/view?usp=sharing)
   
 * [s22-4pm-1 courses](https://www.youtube.com/watch?v=aRSIdiHSZOI)
 * [s22-4pm-2 courses](https://drive.google.com/file/d/1TtjZmlN3W9fAiQS0brLsyMw5KE_ix0Oi/view)
