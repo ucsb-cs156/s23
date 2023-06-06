@@ -48,8 +48,7 @@ The instructions for the final video are listed below.
   - There's a participation grade for providing feedback on one another's presentations
   - There's a live demo component as well, and your team needs to be represented there.
 
-
-<details>
+<details markdown="1">
 <summary>
 Getting PRs merged
 </summary>
@@ -86,7 +85,7 @@ All of this will help all of us get done with this final project (and the gradin
   
 
 
-<details>
+<details markdown="1">
 <summary>
 Notes about the final exam
 </summary>
@@ -139,7 +138,7 @@ Work independently, and let your learning speak for itself.
 
 </details>
 
-<details>
+<details markdown="1">
 <summary>
 Notes about the final presentation
 </summary>
@@ -199,11 +198,12 @@ Please then also poll your team members and let me know your thoughts about the 
 </details>
 
 
-<details>
-<summary>
+<details markdown="1">
+<summary markdown="1">
 Example Videos (these teams gave me permission to share them publically)
 </summary>
-  
+
+* [f22-5pm-1 courses](https://www.youtube.com/watch?v=qVludXu1n9c)
   
 * [s22-4pm-1 courses](https://www.youtube.com/watch?v=aRSIdiHSZOI)
 * [s22-4pm-2 courses](https://drive.google.com/file/d/1TtjZmlN3W9fAiQS0brLsyMw5KE_ix0Oi/view)
