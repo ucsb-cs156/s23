@@ -199,11 +199,12 @@ Please then also poll your team members and let me know your thoughts about the 
 
 
 <details markdown="1">
-<summary markdown="1">
-Example Videos (these teams gave me permission to share them publically)
-</summary>
+<summary markdown="1">Example Videos (these teams gave me permission to share them publically)</summary>
 
 * [f22-5pm-1 courses](https://www.youtube.com/watch?v=qVludXu1n9c)
+* [f22-5pm-2 courses](https://www.youtube.com/watch?v=TJCToeTyasw)
+* [f22-5pm-3 happycows](https://drive.google.com/file/d/1lNaRYu-LNSv03MrwPxWYezMXH9pkaeBY/view?usp=sharing)
+* [f22-6pm-4 happycows](https://drive.google.com/file/d/1l5L88UaTG4B_-8ZKiYx-PXu62cZgSjP9/view?usp=sharing)
   
 * [s22-4pm-1 courses](https://www.youtube.com/watch?v=aRSIdiHSZOI)
 * [s22-4pm-2 courses](https://drive.google.com/file/d/1TtjZmlN3W9fAiQS0brLsyMw5KE_ix0Oi/view)
