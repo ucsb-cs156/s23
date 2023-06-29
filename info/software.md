@@ -15,7 +15,6 @@ Instructions on installing these follow below.
 * nvm
 * Node 16
 * npm 8
-* Heroku CLI
 
 ## Recommmended for Everyone
 
@@ -218,7 +217,6 @@ The following programs will be installed in the above guide:
 * nvm
 * Node 16
 * npm 8
-* Heroku CLI
 
 If you're using a Linux distribution that is not Ubuntu (or a similar Debian-based distribution with access to `apt`), the commands listed in the setup guide linked above may not work. The staff cannot provide support on finding equivalent commands for your desired distribution, but community resources such as Stack Overflow can help here.
 
