@@ -109,5 +109,5 @@ adjust the instructions accordingly for your object.
    ```
 6. When you've made the PR, drag the issue on the Kanban board into `In Review`.
 7. Then, assign yourself a new issue from `ToDo`, and drag that into the `In progress` column, and start work on that issue.
-</details>
+
 
